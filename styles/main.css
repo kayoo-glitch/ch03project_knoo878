@@ -3,3 +3,8 @@ Date: 9/7/2026 */
 nav ul {
     background-color: rgb(175,175,175);
 }
+nav ul li:hover {
+    background-color: blueviolet;
+    border-radius: 5px;
+    list-style-type: none;
+}
