@@ -2,6 +2,11 @@
 Date: 9/7/2026 */
 nav ul {
     background-color: rgb(175,175,175);
+    line-height: 2em;
+    list-style-type: none;
+    padding-left: 0px;
+    text-indent: 5px;
+    border-radius: 5px;
 }
 nav ul li:hover {
     background-color: blueviolet;
