@@ -1,5 +1,17 @@
 /* Name: Kay Nae Oo
 Date: 9/7/2026 */
+html, body {
+    height: 100%;
+}
+footer, header, section, nav {
+    display: block;
+}
+nav {
+    width: 200px;
+    float: left;
+    margin: 10px;
+    margin: -35px;
+}
 nav ul {
     background-color: blue;
     line-height: 2em;
