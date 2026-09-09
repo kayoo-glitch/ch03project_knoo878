@@ -1,1 +1,32 @@
-
+/* Name: Kay Nae Oo
+Date: 9/7/2026 */
+html, body {
+    height: 100%;
+}
+footer, header, section, nav {
+    display: block;
+}
+nav {
+    width: 200px;
+    float: left;
+    margin: 10px;
+    margin: -35px;
+}
+nav ul {
+    background-color: blue;
+    line-height: 2em;
+    list-style-type: none;
+    padding-left: 0px;
+    text-indent: 5px;
+    border-radius: 5px;
+}
+nav ul li:hover {
+    background-color: blueviolet;
+    border-radius: 5px;
+    list-style-type: none;
+}
+nav ul li a {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255,255,0);
+}
