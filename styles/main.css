@@ -23,6 +23,5 @@ nav ul {
 nav ul li:hover {
     background-color: blueviolet;
     border-radius: 5px;
-    list-style-type: none;
 }
 
